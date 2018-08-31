@@ -1,0 +1,8 @@
+include ':videoplayerdemo'
+//        ':sharecomponentkotlin',
+//        ':readercomponent',
+//        ':sharecomponent',
+//        ':componentservice',
+//        ':app',
+//        ':basiclib',
+//        ':basicres'
